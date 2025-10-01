@@ -17,6 +17,10 @@ scripts/package-lock.json
 
 # Yarn
 yarn.lock
+.yarn/
+.yarnrc.yml
+website/.yarn/
+website/.yarnrc.yml
 
 # JetBrains IDEs
 .idea/
